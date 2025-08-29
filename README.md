@@ -1,5 +1,7 @@
-# **Kinect Gesture Recognition and Robotic Arm Control!!!**
+# **Kinect Gesture Recognition and Robotic Arm Control**
 
+
+##ARCHIVED. Please see 'Robot control with kinect sensor' for up to date version. 
 
 ## Overview
 This project is a work in progress and is part of my undergraduate research at Texas A&M International University. The goal is to create a cost-effective device to facilitate safe human-robot collaboration in manufacturing facilities. The system uses a Kinect One sensor to collect and process video data in real-time to classify objects and hand gestures to control an Intellitek robotic arm. This project integrates computer vision, machine learning, and robotics. 
